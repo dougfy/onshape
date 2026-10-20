@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Affinity Designer/Photo working files and locks
+*.af~lock~
+
+# macOS
+.DS_Store
+
+# Rendered previews / exports (regenerate from sources)
+/tmp/
+*.png

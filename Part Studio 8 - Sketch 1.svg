@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="131.000000mm" height="80.200000mm" viewBox="0 0 131.000000 80.200000">
+  <title>Part Studio 8 - Sketch 1 — editable DXF conversion</title>
+  <desc>Converted from Part Studio 8 - Sketch 1.dxf; units overridden to in. Geometry is millimetres.</desc>
+  <defs>
+    <mask id="dxf_circle_holes" maskUnits="userSpaceOnUse" x="0" y="0" width="131.000000" height="80.200000">
+      <rect x="0" y="0" width="131.000000" height="80.200000" fill="white"/>
+      <circle cx="88.454158" cy="60.986290" r="4.032250" fill="black"/>
+      <circle cx="84.902232" cy="71.781290" r="4.032250" fill="black"/>
+    </mask>
+  </defs>
+  <g inkscape:groupmode="layer" inkscape:label="Filled artwork" id="filled_artwork" mask="url(#dxf_circle_holes)">
+    <path id="fill_MODELSKETCH_VISIBLE" inkscape:label="MODELSKETCH_VISIBLE filled contours" d="M 2.000000,2.000000 L 2.000000,14.700000 L 6.292407,14.826024 L 10.543837,15.200917 L 14.744752,15.819909 L 18.885614,16.678233 L 22.956885,17.771118 L 26.949027,19.093796 L 30.852502,20.641498 L 34.657773,22.409454 L 38.355300,24.392897 L 41.935547,26.587056 L 45.388975,28.987163 L 48.706045,31.588449 L 51.877221,34.386144 L 54.892964,37.375481 L 57.743737,40.551689 L 60.420000,43.910000 L 62.917306,47.081353 L 65.556631,50.126672 L 68.333041,53.041460 L 71.241604,55.821218 L 74.277386,58.461449 L 77.435455,60.957655 L 80.710877,63.305338 L 84.098719,65.500000 L 65.500000,65.500000 L 2.000000,65.500000 L 2.000000,78.200000 L 65.500000,78.200000 L 129.000000,78.200000 L 129.000000,65.500000 L 124.707593,65.373976 L 120.456163,64.999083 L 116.255248,64.380091 L 112.114386,63.521767 L 108.043115,62.428882 L 104.050973,61.106204 L 100.147498,59.558502 L 96.342227,57.790546 L 92.644700,55.807103 L 89.064453,53.612944 L 85.611025,51.212837 L 82.293955,48.611551 L 79.122779,45.813856 L 76.107036,42.824519 L 73.256263,39.648311 L 70.580000,36.290000 L 67.438300,32.347635 L 64.091741,28.619043 L 60.551521,25.109822 L 56.828836,21.825570 L 52.934883,18.771887 L 48.880859,15.954370 L 44.677961,13.378618 L 40.337385,11.050229 L 35.870329,8.974802 L 31.287988,7.157934 L 26.601561,5.605226 L 21.822242,4.322273 L 16.961230,3.314676 L 12.029721,2.588033 L 7.038912,2.147941 L 2.000000,2.000000 Z" fill="#000000" fill-rule="evenodd" stroke="none"/>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="Source entities (editable; hidden)" id="source_entities" style="display:none">
+    <desc>Toggle this layer on to inspect or edit individual imported DXF entities.</desc>
+    <g inkscape:label="DXF layer: MODELSKETCH_VISIBLE" id="source_MODELSKETCH_VISIBLE">
+      <circle id="entity_1" inkscape:label="CIRCLE 10000059 — MODELSKETCH_VISIBLE" cx="88.454158" cy="60.986290" r="4.032250" fill="none" stroke="#000000" stroke-width="0.25"/>
+      <path id="entity_2" inkscape:label="LINE 1000005D — MODELSKETCH_VISIBLE" d="M 2.000000,2.000000 L 2.000000,14.700000" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle id="entity_3" inkscape:label="CIRCLE 10000061 — MODELSKETCH_VISIBLE" cx="84.902232" cy="71.781290" r="4.032250" fill="none" stroke="#000000" stroke-width="0.25"/>
+      <path id="entity_4" inkscape:label="LINE 10000065 — MODELSKETCH_VISIBLE" d="M 65.500000,65.500000 L 84.098719,65.500000" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+      <path id="entity_5" inkscape:label="LINE 10000069 — MODELSKETCH_VISIBLE" d="M 2.000000,65.500000 L 65.500000,65.500000" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+      <path id="entity_6" inkscape:label="LINE 1000006D — MODELSKETCH_VISIBLE" d="M 2.000000,78.200000 L 65.500000,78.200000" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+      <path id="entity_7" inkscape:label="LINE 10000071 — MODELSKETCH_VISIBLE" d="M 2.000000,65.500000 L 2.000000,78.200000" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+      <path id="entity_8" inkscape:label="LINE 10000075 — MODELSKETCH_VISIBLE" d="M 129.000000,78.200000 L 129.000000,65.500000" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+      <path id="entity_9" inkscape:label="ARC 10000079 — MODELSKETCH_VISIBLE" d="M 70.580000,36.290000 L 73.256263,39.648311 L 76.107036,42.824519 L 79.122779,45.813856 L 82.293955,48.611551 L 85.611025,51.212837 L 89.064453,53.612944 L 92.644700,55.807103 L 96.342227,57.790546 L 100.147498,59.558502 L 104.050973,61.106204 L 108.043115,62.428882 L 112.114386,63.521767 L 116.255248,64.380091 L 120.456163,64.999083 L 124.707593,65.373976 L 129.000000,65.500000" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+      <path id="entity_10" inkscape:label="ARC 1000007D — MODELSKETCH_VISIBLE" d="M 60.420000,43.910000 L 62.917306,47.081353 L 65.556631,50.126672 L 68.333041,53.041460 L 71.241604,55.821218 L 74.277386,58.461449 L 77.435455,60.957655 L 80.710877,63.305338 L 84.098719,65.500000" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+      <path id="entity_11" inkscape:label="ARC 10000081 — MODELSKETCH_VISIBLE" d="M 60.420000,43.910000 L 57.743737,40.551689 L 54.892964,37.375481 L 51.877221,34.386144 L 48.706045,31.588449 L 45.388975,28.987163 L 41.935547,26.587056 L 38.355300,24.392897 L 34.657773,22.409454 L 30.852502,20.641498 L 26.949027,19.093796 L 22.956885,17.771118 L 18.885614,16.678233 L 14.744752,15.819909 L 10.543837,15.200917 L 6.292407,14.826024 L 2.000000,14.700000" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+      <path id="entity_12" inkscape:label="ARC 10000085 — MODELSKETCH_VISIBLE" d="M 70.580000,36.290000 L 67.438300,32.347635 L 64.091741,28.619043 L 60.551521,25.109822 L 56.828836,21.825570 L 52.934883,18.771887 L 48.880859,15.954370 L 44.677961,13.378618 L 40.337385,11.050229 L 35.870329,8.974802 L 31.287988,7.157934 L 26.601561,5.605226 L 21.822242,4.322273 L 16.961230,3.314676 L 12.029721,2.588033 L 7.038912,2.147941 L 2.000000,2.000000" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+      <path id="entity_13" inkscape:label="LINE 10000089 — MODELSKETCH_VISIBLE" d="M 65.500000,78.200000 L 129.000000,78.200000" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>

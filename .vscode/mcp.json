@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "onshapeLabsFeatureScript": {
+      "type": "http",
+      "url": "https://fs-mcp.labs.onshape.app/mcp"
+    }
+  }
+}
